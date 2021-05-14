@@ -10,4 +10,5 @@ I am using eclipse Spring Tool Suite 4.
 
 - 04-crt-calculator-helper-module - Create the calculator helper module
 
+- 06-crt-module-calculator-main - Create the calculator main module
 
